@@ -1,4 +1,4 @@
-const nomeDaEmpresa = "LATAM AIRLINES BRASIL"
+const nomeDaEmpresa = "LATAM AIRLINES BRASIL";
 
 db.resumoVoos.insertOne({
   empresa: nomeDaEmpresa,
