@@ -1,0 +1,1 @@
+db.voo.find({ "vooId" }).limit(2).skip(9);

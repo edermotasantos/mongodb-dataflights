@@ -1,1 +1,1 @@
-db.voos.count({empresa: "AZUL"});
+db.voos.count({ empresa: "AZUL" });
