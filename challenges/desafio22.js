@@ -9,7 +9,8 @@ db.voos.findOne(
           ],
         },
       },
-      { aeroportoDeOrigem: "SBGR" },
+      { "aeroportoOrigem.sigla": "SBGR" },
+      { "aeroportoDestino.sigla": "KJFK" }
     ],
   },
   {
