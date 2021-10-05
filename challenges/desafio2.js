@@ -1,1 +1,1 @@
-db.voos.find({ empresa: "azul" });
+db.voos.find({ empresa: "AZUL" });
