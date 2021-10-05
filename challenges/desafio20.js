@@ -1,6 +1,6 @@
 db.voos.findOne(
   { 
-    rtk: { $existis: false },
+    rtk: { $exists: false },
   },
   {
     _id: 0,
