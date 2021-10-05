@@ -4,7 +4,7 @@ db.voos.find(
   },
   {
     _id: 0,
-    "empresas.sigla": 1,
+    "empresa.sigla": 1,
     "empresa.nome": 1,
     passageiros: 1,
   },
